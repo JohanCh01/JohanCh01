@@ -22,4 +22,5 @@ Desarrollo **automatizaciones en Python** y **dashboards en Power BI** para reem
 > Varios proyectos son privados por confidencialidad; aquí publico versiones con datos de ejemplo.
 
 ### 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · tu.correo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/johanchp0106) · Johanchinguel07@gmail.com
+
