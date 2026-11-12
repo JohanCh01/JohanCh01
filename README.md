@@ -1,7 +1,6 @@
 # Hola, soy Johan 👋
 
 Practicante en el área de **Calidad** del sector agroindustrial.
-Desarrollo **automatizaciones en Python** y **dashboards en Power BI** para reemplazar procesos manuales.
 
 ### 🛠️ Tecnologías
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
