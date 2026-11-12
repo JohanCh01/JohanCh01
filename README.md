@@ -15,7 +15,7 @@ Desarrollo **automatizaciones en Python** y **dashboards en Power BI** para reem
 ### 🚀 Lo que he construido
 - **Pipeline ETL de datos fitosanitarios**: limpieza, consolidación y carga automática de datos en varias fases con Python.
 - **Descarga automática de bases de datos desde Google Drive** mediante API y cuenta de servicio.
-- **Dashboards de indicadores de proceso y control documental** en Power BI (modelo estrella, DAX).
+- **Dashboards de indicadores de proceso y control documental** en Power BI.
 - **Validación diaria de formularios de inspección**: detección automática de datos incompletos.
 
 > Varios proyectos son privados por confidencialidad; aquí publico versiones con datos de ejemplo.
