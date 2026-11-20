@@ -10,6 +10,7 @@ Practicante en el área de **Calidad** del sector agroindustrial.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat&logo=googledrive&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### 🚀 Lo que he construido
 - **Pipeline ETL de datos fitosanitarios**: limpieza, consolidación y carga automática de datos en varias fases con Python.
